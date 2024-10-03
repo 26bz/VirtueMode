@@ -1,0 +1,14 @@
+{
+"restarts": {
+    "pattern": "(!restarts)",
+    "response": "Restarting a Minecraft server with plugins and mods is important because:\n\n- **Clears Memory**: It helps free up memory that plugins and mods can gradually use up, preventing slowdowns.\n\n- **Improves Stability**: Some plugins and mods can get buggy if the server runs too long, so restarting keeps them working properly.\n\n- **Boosts Performance**: Restarting can fix lag and make the server run faster by resetting processes that build up over time.\n\n- **Applies Updates**: It ensures that updates to plugins, mods, or the server itself are applied effectively.\n\n- **Prevents Crashes**: Regular restarts help avoid crashes caused by overloaded resources or errors.\n\n- **Protects the World**: It reduces the risk of world corruption by ensuring everything is saved correctly.\n\nFor more detailed instructions on how to restart your server, check out our knowledgebase article [here](https://virtue-host.com/billing/knowledgebase/135/)."
+},
+  "logs": {
+    "pattern": "(!logs)",
+    "response": "To upload and share your server logs, please use https://mclo.gs/. Simply drag and drop your log file onto the site, and you'll receive a link to share with us."
+  },
+  "host": {
+    "pattern": "(!host)",
+    "response": "We Are Not a Gaming Community, We Sell Minecraft Servers So You Can Run One!"
+  }
+}
