@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://virtue-host.com"><img src="https://cdn.virtue-host.com/company/logo.png" height="200" alt="Discord.js v14 Bot"></a>
+  <a href="https://virtue-host.com"><img src="https://avatars.githubusercontent.com/u/183725834?s=400&u=ccc577eb297ed250f433879877bbeea21af0f0f7&v=4" height="200" alt="Discord.js v14 Bot"></a>
   <br>
   Discord.js v14 Bot
   <br>
