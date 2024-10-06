@@ -26,9 +26,6 @@
 
 ## 🔗 Resource Links
 
-- 🤖 Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client_id=1013236808353599488&permissions=397602323830&scope=bot%20applications.commands)
-- 🤝 Support Server: [Join Here](https://discord.gg/2gPy75zgbW)
-- 📂 Documentation URL: [Visit Here](https://strangedocs.hostz.me)
 - 🐳 Docker Image: [Hub](https://hub.docker.com/r/saitejamadha/discord-js-bot)
 
 ## 📦 Prerequisites
@@ -42,8 +39,8 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/saiteja-madha/discord-js-bot.git
-cd discord-js-bot
+git clone https://github.com/Virtue-Host/VirtueMode.git
+cd virtuemode
 npm install
 ```
 
@@ -51,8 +48,6 @@ npm install
 - Rename `.env.example` to `.env` and fill the values
 - Optionally edit `config.js`
 - Type `npm run start` to start the bot
-
-If you need any additional help, make sure to read our guides [here](docs/additional/installation.md)
 
 <br>
 
